@@ -1,4 +1,4 @@
-package com.agvillamizar.postservice;
+package com.agvillamizar.post;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
